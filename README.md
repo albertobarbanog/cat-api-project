@@ -1,8 +1,14 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## **Galería de Gatos: 
 
-Currently, two official plugins are available:
+**Creado para proyecto del modulo React en mi Bootcamp** 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**¿Cómo funciona?**
+1. **Clona el repositorio:** `git clone https://github.com/albertobarbanog/cat-api-project`
+2. **Instala las dependencias:** `npm install`
+3. **Configura tu clave API:** Crea un archivo `.env.local` y pega tu clave de The Cat API. (Se consigue en la pagina web oficial de la API)
+4. **Inicia la aplicación:** `npm start`
+
+**Hecho con:** React, The Cat API y Bootstrap.
+
+**#react #thecatapi #bootstrap #gatos #coding**
