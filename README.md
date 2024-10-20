@@ -1,4 +1,3 @@
-
 ## **Galería de Gatos**: 
 
 **Creado para proyecto del modulo React en mi Bootcamp** 
